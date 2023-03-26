@@ -1,0 +1,21 @@
+* {
+    margin: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.avatar-img {
+    width: 150px;
+}
+
+.card {
+    padding: 20px 20px; 
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    margin: auto auto;
+    text-align: center;
+    background-color: #ddebf8;
+    color: #2b2839;
+    border-bottom: 12px solid #d8cefe;
+}
+
